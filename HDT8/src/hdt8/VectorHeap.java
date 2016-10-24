@@ -1,8 +1,8 @@
 /*
-HDT7
+HDT8
 Sang Woo Shin Ji 15372
 Diego Ricardo Valdez 15397
-5/10/2016
+24/10/2016
  */
 package hdt8;
 import java.io.BufferedReader;
